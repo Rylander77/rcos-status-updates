@@ -1,27 +1,23 @@
 # RCOS Status Update
 
-## Week 03
+## Week 04
 
 ## Rylan Gupta
 
 
 ## Last Week's Accomplishments
 
-Getting new members with their first pull requests merged!
+Narrowing down our options for analysis and libraries to use for analog circuits. Additionally, ramping up both OpenCircuits and OpenCircuits EE teams to be making regular commits and tackling full issues. 
 
-The EE Merge into OpenCircuits is close to completion, so soon the team will be able to create unit tests and tackle bugs.
-
-Currently, the team is tasked with restoring a couple of features from the old EE project before implementing new features.
-
-Additionally, the Docker configurations are now working properly, both compiling in the build process and ip addressing now work with the newest PR's merged in.
+With the EE branch now merged, the EE team is also tasked with restoring EE functionality to the repo. The team will also have to spend more time with git and the project itself, as much of the work done by some members has been on research than on any code contributions. 
 
 
 ## This Week's Plan
 
-Continue to research different options for analysis / SPICE implementation, restore old EE features, and assist new members!
+Hopefully we are able to decide on a library / implementation to use and begin going through it. The team has been tasked with writing small proposals on how we could use different implementations that team members have been researching. Additionally, ensure that all team members are able to set up the latest versions of the project and ensure they are able to make some commits!!
 
 
 ## Anything Blocking?
 
-Still awaiting the EE merge before working on unit tests. Additionally, deciding on a solution will be an ongoing discussion for the team as we discover what implementations / analysis approaches we choose to use moving forward.
+Since the EE Merge was a bit of a block on our workflow, we will need to do some work in crash coursing through git and the project with whatever gaps of knowledge and basic skills need to be filled in there.
 
