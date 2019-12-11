@@ -26,7 +26,7 @@ Outside of my own commits to the project, I also mentored my team and others who
 As only two members of the EE team participated in RCOS for credit, it became difficult to reliably assign tasks to individuals. Many EE members understandibly prioritized their coursework over small group meetings, so assisting them in making sure they are able to contribute was a challenge. However, many team members were still able to make contributions concurrently with researching, as many members tackled issues and other contributions given that they had backgrounds in coding. Chris and I were able to put our research together into the [Wiki page detailing our research work this semester](https://github.com/OpenCircuits/OpenCircuits/wiki/OpenCircuits-EE-Fall-2019). My contributions to the wiki page are as follows:
 
 
-
+_____
 
 
 
